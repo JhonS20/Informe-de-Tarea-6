@@ -10,6 +10,9 @@ MARCO TEORICO
 
 CAPITULO 11
 
+![Diagrama en blanco (5)](https://user-images.githubusercontent.com/93899658/149952773-d3cbc223-77c7-4712-bc05-db3c6db74aa3.png)
+
+
 CAPITULO 12
 
 ![Capacitores](https://user-images.githubusercontent.com/93209004/149937093-bde51ce9-ed89-4140-b0b3-2bbf5b374312.png)
