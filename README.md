@@ -4,6 +4,8 @@ OBJETIVO GENERAL
 
 OBJETIVO ESPECIFICO
 
+•	Estudiar y analizar la construcción y las características básicas de un capacitor, sus diversos tipos y sus aplicaciones en circuitos en serie, en paralelo, circuitos de cd y ca.
+
 MARCO TEORICO
 
 CAPITULO 11
@@ -48,7 +50,7 @@ VIDEO
 
 CONCLUSIONES
 
-
+•	Concluimos que los capacitores son componentes esenciales en circuitos  en lo que el voltaje fluctúa mucho ya que el capacitor nivela el voltaje almacenando o liberando energía cuando es necesario.
 
 BIBLIOGRAFIAS
 
