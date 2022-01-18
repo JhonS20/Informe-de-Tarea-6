@@ -158,7 +158,7 @@ SECCIÓN 12–5 Capacitores en circuitos de cd
 
 VIDEO
 
-
+https://youtu.be/gKX0YFD24Uo
 
 CONCLUSIONES
 
