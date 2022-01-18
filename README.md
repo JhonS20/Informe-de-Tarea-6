@@ -50,7 +50,7 @@ VIDEO
 
 CONCLUSIONES
 
-•	Concluimos que los capacitores son componentes esenciales en circuitos  en lo que el voltaje fluctúa mucho ya que el capacitor nivela el voltaje almacenando o liberando energía cuando es necesario.
+•	Concluimos que los capacitores son componentes esenciales en circuitos  en los que el voltaje fluctúa mucho ya que el capacitor nivela el voltaje almacenando o liberando energía cuando es necesario.
 
 BIBLIOGRAFIAS
 
