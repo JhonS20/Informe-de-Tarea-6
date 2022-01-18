@@ -107,7 +107,7 @@ CAPITULO 12
 ![Deber cap 12_Página_7](https://user-images.githubusercontent.com/93209004/149937041-50b10169-3585-49a5-bd4c-7dc5fcc3d935.jpg)
 ![Deber cap 12_Página_8](https://user-images.githubusercontent.com/93209004/149937043-6c777172-5070-4341-a6a6-838951013b67.jpg)
 
-* 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
+29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
 
@@ -119,6 +119,7 @@ CAPITULO 12
 ![image](https://user-images.githubusercontent.com/93899658/149954212-b8653af9-0a0e-400b-a46a-6ddea5fd3468.png)
 
 SECCIÓN 12–5 Capacitores en circuitos de cd
+
 31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
 
 ![image](https://user-images.githubusercontent.com/93899658/149954310-bacca91d-32f2-48bb-9169-cb8137b690d1.png)
